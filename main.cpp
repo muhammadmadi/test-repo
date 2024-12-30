@@ -1,0 +1,3 @@
+#include "charachter.h"
+
+main() {}
