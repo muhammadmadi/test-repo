@@ -1,3 +1,3 @@
-#include "charachter.h"
+#include "npc.h"
 
 main() {}
